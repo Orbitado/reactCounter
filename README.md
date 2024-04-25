@@ -1,8 +1,3 @@
-# React + Vite
+Escribe un componente en React que muestre un contador y dos botones: uno para incrementar y otro para decrementar el contador. El contador debe comenzar en cero y actualizarse cuando se haga clic en los botones correspondientes. Asegúrate de mostrar el valor actual del contador en la interfaz de usuario.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este ejercicio te permite practicar el manejo del estado en React y el manejo de eventos. Si necesitas más detalles sobre cómo abordarlo, no dudes en preguntar.
